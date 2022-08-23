@@ -1,0 +1,1 @@
+# VMTShader2VertexLitGeneric
